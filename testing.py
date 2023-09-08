@@ -11,3 +11,12 @@ def get_waiting_list(signups):
   else:
     print(f"{200 - signups} spaces left.")
 get_waiting_list(20)
+
+#Mimo
+def display_programme(movies):
+  print("Airing tonight: ")
+  for movie in movies:
+    print(movie)
+
+movie_list = ["Alien", "Moon"]
+display_programme(movie_list)
