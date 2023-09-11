@@ -20,3 +20,12 @@ def display_programme(movies):
 
 movie_list = ["Alien", "Moon"]
 display_programme(movie_list)
+
+#As expected
+
+def display_progress(total_files):
+  for i in range(total_files):
+    i += 1
+    print(f"Downloading file {i} out of {total_files}")
+
+display_progress(3)
