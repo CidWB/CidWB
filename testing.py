@@ -29,3 +29,19 @@ def display_progress(total_files):
     print(f"Downloading file {i} out of {total_files}")
 
 display_progress(3)
+
+# I need to append values to an array to print the fibonacci series
+'''#include <iostream>
+using namespace std;
+int main () {
+	int n, num;
+	int arr[2] = {0, 1};
+	cout << arr[0] << "\n" << arr[1] << "\n";
+	
+	for (n=2; n<30; n++) {
+//	arr [n] = (arr[(n-2)] + arr[(n-1)]);
+		cout << arr [n] << "\n";
+	}
+
+// I want to map each array value 
+}'''
