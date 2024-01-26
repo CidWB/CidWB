@@ -23,3 +23,35 @@ int main() {
 	}
 	return 0;
 }
+
+
+// Jan 2024, from COMP 1602
+#include using namespace std;
+int main() {
+    struct Date {
+        int year;
+        string month;
+        int day;
+    };
+   
+    struct Employee{
+        string name;
+        char position;
+        double salary;
+        Date hireDate;
+    };
+   
+    Date Birthday {};
+        Birthday.year = 2004;
+        Birthday.month = "july";
+        Birthday.day = 13;
+   
+    Birthday = {2003, "september", 3};
+   
+    Employee grocery[2];
+   
+    grocery[0] = {"John Doe", 'M', 15000.00, {2019, "September", 5}};
+   
+    cout << grocery[0].name;
+    return 0;
+}
