@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @CidWB
-- 👀 I’m interested in becomming more tech savvy.
-- 🌱 I’m currently learning front-end language basics, C++ (for school) and Python.
+- 👀 I’ve got a big dream: to merge biochem with comp sci and create the coolest product ever.
+- 🌱 I’m currently working on software dev stuff, and I want to get experience with building mobile apps.
 - 💞️ I’m looking to collaborate on any simple projects, just to get some experience.
 - 📫 You can reach me on insta, @pineapple_abi_13
 
